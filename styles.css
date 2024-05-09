@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(102, 102, 102);
+}
+h3{
+    text-align: center;
+  }
+  .board {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
